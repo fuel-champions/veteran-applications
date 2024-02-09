@@ -1,12 +1,12 @@
-name: Explorer Application
-description: Use this form to apply as a Explorer to the Fuel Developer Champions program.
+name: Veteran Application
+description: Use this form to apply as a Veteran to the Fuel Developer Champions program.
 title: "[Application] : "
 labels: ["application"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to submit an application to the Fuel Developer Champions program as a Explorer! Explorers are developers who have begun building on Fuel and are looking to join a community of other developers to learn from and share their knowledge with. We are excited to have you join us!
+        Thank you for taking the time to submit an application to the Fuel Developer Champions program as a Veteran! Veterans are developers who have begun building on Fuel and are looking to join a community of other developers to learn from and share their knowledge with. We are excited to have you join us!
   - type: markdown
     attributes:
       value: |
@@ -53,7 +53,7 @@ body:
       label: Current Champions member
       description: Are you a current member of the Fuel Developer Champions program?
       options:
-        - "Yes, I'm a Pioneer and applying to level up to Explorer"
+        - "Yes, I'm a Pro and applying to level up to Veteran"
         - "No, I'm not a Fuel Developer Champion yet"
   - type: dropdown
     id: ambassador-program
